@@ -1,0 +1,7 @@
+Nome da Entidade     : ACEC1101
+Descrição da Entidade: Cadastro de Produtos
+Código                                  CODIGO                        VarChar               11        True      
+Descrição                               DESCRICAO                     VarChar               256       False     
+Código do Grupo                         GRUPO                         VarChar               13        False     
+Preço de Venda                          PCO_VENDA                     Double Precision      0         False     
+Estoque                                 ESTOQUE                       Double Precision      0         False     
